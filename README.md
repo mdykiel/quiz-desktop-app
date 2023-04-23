@@ -28,7 +28,7 @@ $ pnpm install --shamefully-hoist
 ```
 
 ### Use it
-
+https://strapi.io/blog/how-to-build-a-quiz-app-with-next-js-electron-powered-by-a-strapi-backend
 ```
 # development mode
 $ yarn dev (or `npm run dev` or `pnpm run dev`)
